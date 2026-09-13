@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero/hero-light.svg">
-    <img src="assets/hero/hero-light.svg" width="100%" alt="Om Singhal. Spatial computing, graphics, and the open source tooling underneath. 31 PRs merged at Microsoft, Meta, Apple, and more. Combined B.S./M.S. in Computer Science at Purdue University Fort Wayne. Open to software engineering roles.">
+    <img src="assets/hero/hero-light.svg" width="100%" alt="Om Singhal. Spatial computing, graphics, and the open source tooling underneath. PRs merged at Microsoft, Meta, Apple, and more. Combined B.S./M.S. in Computer Science at Purdue University Fort Wayne. Open to software engineering roles.">
   </picture>
 </p>
 
@@ -12,13 +12,13 @@ I'm in a combined B.S./M.S. program in Computer Science at Purdue University For
 
 ## Open source
 
-**31 merged pull requests** across 12 repositories at Microsoft, Meta, Cloudflare, Apple, Azure, and AWS, since my first merge on August 24, 2026.
+Merged pull requests at Microsoft, Meta, Apple, Cloudflare, and AWS, since my first merge on August 24, 2026. The skyline below redraws itself every day as new ones land.
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/skyline/oss-skyline-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/skyline/oss-skyline-light.svg">
-    <img src="assets/skyline/oss-skyline-light.svg" width="100%" alt="Isometric city of my open source work: 31 merged pull requests to company repos since August 24, 2026, drawn as one building per repository and one floor per merged pull request. Microsoft 14: onnxscript 6, kiota 4, typespec 1, playwright 1, mssql-python 1, vscode-cmake-tools 1. Meta 12: lexical 10, stylex 2. Cloudflare 2: workers-sdk 2. Apple 1: coremltools 1. Azure 1: azure-sdk-for-js 1. AWS 1: mcp 1.">
+    <img src="assets/skyline/oss-skyline-light.svg" width="100%" alt="Isometric skyline of my merged pull requests: one building per repository, one floor per merged PR, grouped into company districts. It redraws itself every day.">
   </picture>
 </p>
 
@@ -38,7 +38,7 @@ I'm in a combined B.S./M.S. program in Computer Science at Purdue University For
   The generated TypeScript factory promised an array but read a single value, so the client generated from GitHub's own REST description didn't compile.
 
 <details>
-<summary><b>All 31 merged PRs, by repo</b></summary>
+<summary><b>Merged PRs, by repo</b></summary>
 <br>
 
 **Microsoft (14)**
