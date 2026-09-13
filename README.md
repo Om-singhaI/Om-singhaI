@@ -77,23 +77,6 @@ An autonomous data scientist. Drop in a dataset and it explores, forms hypothese
 **[PLAYER 1001](https://github.com/Om-singhaI/player-1001)** · [play it](https://om-singhai.github.io/player-1001/)<br>
 Live crowd play inside a video premiere. One HTML file, one stylesheet, one script. Zero dependencies, zero external requests, with reduced motion, keyboard, and screen reader paths.
 
-## How I work
-
-I reproduce the bug on `main` before I touch any code, and I chase the root cause, since the visible failure usually sits a layer or two above the real defect. Then I write the test and watch it fail. Once the fix is in, I revert only the source change and watch the test fail again, because a test that passes either way proves nothing.
-
-<details>
-<summary><b>How I pick what to work on</b></summary>
-<br>
-
-I skip `good first issue` on famous repos. Those get picked clean fast. I look for fresh, unassigned issues that come with a real reproduction. Before I write any code I check whether it's still broken on `main`, whether someone already has a PR open, and whether a maintainer called it intended behavior. Plenty of candidates die right there, and that's time saved. When the tracker runs dry, I read the source and probe for bugs nobody's reported yet. Some of my Lexical fixes started that way.
-
-</details>
-
-## What I'm building now
-
-- **Soft wrap for Lexical code blocks**, with line numbers that follow each logical line. I've proposed it on [facebook/lexical#8459](https://github.com/facebook/lexical/issues/8459), and it's in progress.
-- **An optional `RetryPolicy` for Microsoft's [mssql-python](https://github.com/microsoft/mssql-python) driver**, the feature I was assigned on [issue #682](https://github.com/microsoft/mssql-python/issues/682). It'll let apps retry transient connection failures without writing their own loop. [PR #751](https://github.com/microsoft/mssql-python/pull/751) is in progress.
-
 ## Say hi
 
 I'm always happy to talk spatial computing, model export, or anything that renders, and if you're hiring for a software engineering role, I'd love to hear from you.
