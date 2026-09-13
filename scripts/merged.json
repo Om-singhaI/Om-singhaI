@@ -1,0 +1,96 @@
+{
+  "author": "Om-singhaI",
+  "since": "2026-08-24",
+  "companies": [
+    {
+      "company": "Microsoft",
+      "total": 15,
+      "repos": [
+        {
+          "repo": "microsoft/onnxscript",
+          "name": "onnxscript",
+          "count": 6
+        },
+        {
+          "repo": "microsoft/kiota",
+          "name": "kiota",
+          "count": 4
+        },
+        {
+          "repo": "Azure/azure-sdk-for-js",
+          "name": "azure-sdk-for-js",
+          "count": 1
+        },
+        {
+          "repo": "microsoft/mssql-python",
+          "name": "mssql-python",
+          "count": 1
+        },
+        {
+          "repo": "microsoft/playwright",
+          "name": "playwright",
+          "count": 1
+        },
+        {
+          "repo": "microsoft/typespec",
+          "name": "typespec",
+          "count": 1
+        },
+        {
+          "repo": "microsoft/vscode-cmake-tools",
+          "name": "vscode-cmake-tools",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "company": "Meta",
+      "total": 12,
+      "repos": [
+        {
+          "repo": "facebook/lexical",
+          "name": "lexical",
+          "count": 10
+        },
+        {
+          "repo": "facebook/stylex",
+          "name": "stylex",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "company": "Cloudflare",
+      "total": 2,
+      "repos": [
+        {
+          "repo": "cloudflare/workers-sdk",
+          "name": "workers-sdk",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "company": "Apple",
+      "total": 1,
+      "repos": [
+        {
+          "repo": "apple/coremltools",
+          "name": "coremltools",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "company": "AWS",
+      "total": 1,
+      "repos": [
+        {
+          "repo": "awslabs/mcp",
+          "name": "mcp",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}
