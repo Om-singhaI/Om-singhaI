@@ -77,8 +77,6 @@ An autonomous data scientist. Drop in a dataset and it explores, forms hypothese
 **[PLAYER 1001](https://github.com/Om-singhaI/player-1001)** · [play it](https://om-singhai.github.io/player-1001/)<br>
 Live crowd play inside a video premiere. One HTML file, one stylesheet, one script. Zero dependencies, zero external requests, with reduced motion, keyboard, and screen reader paths.
 
-## Persephone 3 Pro, the headset I print
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/headset3d/headset-turntable-dark.svg">
