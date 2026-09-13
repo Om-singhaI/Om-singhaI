@@ -2,13 +2,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero/hero-light.svg">
-    <img src="assets/hero/hero-light.svg" width="100%" alt="Om Singhal. Spatial computing, graphics, and the open source tooling underneath. PRs merged at Microsoft, Meta, Apple, and more. Combined B.S./M.S. in Computer Science at Purdue University Fort Wayne. Open to software engineering roles.">
+    <img src="assets/hero/hero-light.svg" width="100%" alt="Om Singhal. Spatial computing, graphics, and the open source tooling underneath. PRs merged at Microsoft, Meta, Apple, and more. Combined B.S./M.S. in Computer Science at Purdue University. Open to software engineering roles.">
   </picture>
 </p>
 
 ### I fix the bugs hiding in tools other engineers build on, and I 3D print my own VR headsets.
 
-I'm in a combined B.S./M.S. program in Computer Science at Purdue University Fort Wayne, and I'm looking for a software engineering role. My fixes have landed in ONNX export, Core ML conversion, the Lexical editor, Kiota's code generator, and Wrangler. You can reach me at [wengsinghal@gmail.com](mailto:wengsinghal@gmail.com).
+I'm in a combined B.S./M.S. program in Computer Science at Purdue University, and I'm looking for a software engineering role. My fixes have landed in ONNX export, Core ML conversion, the Lexical editor, Kiota's code generator, and Wrangler. You can reach me at [wengsinghal@gmail.com](mailto:wengsinghal@gmail.com).
 
 ## Open source
 
