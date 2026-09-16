@@ -4,7 +4,7 @@
   "companies": [
     {
       "company": "Microsoft",
-      "total": 15,
+      "total": 16,
       "repos": [
         {
           "repo": "microsoft/onnxscript",
@@ -14,7 +14,7 @@
         {
           "repo": "microsoft/kiota",
           "name": "kiota",
-          "count": 4
+          "count": 5
         },
         {
           "repo": "Azure/azure-sdk-for-js",
