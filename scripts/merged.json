@@ -60,6 +60,17 @@
       ]
     },
     {
+      "company": "Apple",
+      "total": 2,
+      "repos": [
+        {
+          "repo": "apple/coremltools",
+          "name": "coremltools",
+          "count": 2
+        }
+      ]
+    },
+    {
       "company": "Cloudflare",
       "total": 2,
       "repos": [
@@ -67,17 +78,6 @@
           "repo": "cloudflare/workers-sdk",
           "name": "workers-sdk",
           "count": 2
-        }
-      ]
-    },
-    {
-      "company": "Apple",
-      "total": 1,
-      "repos": [
-        {
-          "repo": "apple/coremltools",
-          "name": "coremltools",
-          "count": 1
         }
       ]
     },
