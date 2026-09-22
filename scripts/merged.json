@@ -4,7 +4,7 @@
   "companies": [
     {
       "company": "Microsoft",
-      "total": 16,
+      "total": 19,
       "repos": [
         {
           "repo": "microsoft/onnxscript",
@@ -17,23 +17,28 @@
           "count": 5
         },
         {
+          "repo": "microsoft/playwright",
+          "name": "playwright",
+          "count": 2
+        },
+        {
+          "repo": "microsoft/typespec",
+          "name": "typespec",
+          "count": 2
+        },
+        {
           "repo": "Azure/azure-sdk-for-js",
           "name": "azure-sdk-for-js",
           "count": 1
         },
         {
+          "repo": "microsoft/debugpy",
+          "name": "debugpy",
+          "count": 1
+        },
+        {
           "repo": "microsoft/mssql-python",
           "name": "mssql-python",
-          "count": 1
-        },
-        {
-          "repo": "microsoft/playwright",
-          "name": "playwright",
-          "count": 1
-        },
-        {
-          "repo": "microsoft/typespec",
-          "name": "typespec",
           "count": 1
         },
         {
@@ -60,6 +65,27 @@
       ]
     },
     {
+      "company": "AWS",
+      "total": 3,
+      "repos": [
+        {
+          "repo": "awslabs/mcp",
+          "name": "mcp",
+          "count": 1
+        },
+        {
+          "repo": "aws/mcp-proxy-for-aws",
+          "name": "mcp-proxy-for-aws",
+          "count": 1
+        },
+        {
+          "repo": "aws/sagemaker-python-sdk",
+          "name": "sagemaker-python-sdk",
+          "count": 1
+        }
+      ]
+    },
+    {
       "company": "Apple",
       "total": 2,
       "repos": [
@@ -78,17 +104,6 @@
           "repo": "cloudflare/workers-sdk",
           "name": "workers-sdk",
           "count": 2
-        }
-      ]
-    },
-    {
-      "company": "AWS",
-      "total": 1,
-      "repos": [
-        {
-          "repo": "awslabs/mcp",
-          "name": "mcp",
-          "count": 1
         }
       ]
     },
