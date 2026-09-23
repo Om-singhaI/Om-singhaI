@@ -4,7 +4,7 @@
   "companies": [
     {
       "company": "Microsoft",
-      "total": 19,
+      "total": 20,
       "repos": [
         {
           "repo": "microsoft/onnxscript",
@@ -15,6 +15,11 @@
           "repo": "microsoft/kiota",
           "name": "kiota",
           "count": 5
+        },
+        {
+          "repo": "microsoft/debugpy",
+          "name": "debugpy",
+          "count": 2
         },
         {
           "repo": "microsoft/playwright",
@@ -29,11 +34,6 @@
         {
           "repo": "Azure/azure-sdk-for-js",
           "name": "azure-sdk-for-js",
-          "count": 1
-        },
-        {
-          "repo": "microsoft/debugpy",
-          "name": "debugpy",
           "count": 1
         },
         {
@@ -86,23 +86,23 @@
       ]
     },
     {
+      "company": "Cloudflare",
+      "total": 3,
+      "repos": [
+        {
+          "repo": "cloudflare/workers-sdk",
+          "name": "workers-sdk",
+          "count": 3
+        }
+      ]
+    },
+    {
       "company": "Apple",
       "total": 2,
       "repos": [
         {
           "repo": "apple/coremltools",
           "name": "coremltools",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "company": "Cloudflare",
-      "total": 2,
-      "repos": [
-        {
-          "repo": "cloudflare/workers-sdk",
-          "name": "workers-sdk",
           "count": 2
         }
       ]
