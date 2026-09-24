@@ -4,17 +4,22 @@
   "companies": [
     {
       "company": "Microsoft",
-      "total": 20,
+      "total": 22,
       "repos": [
+        {
+          "repo": "microsoft/kiota",
+          "name": "kiota",
+          "count": 6
+        },
         {
           "repo": "microsoft/onnxscript",
           "name": "onnxscript",
           "count": 6
         },
         {
-          "repo": "microsoft/kiota",
-          "name": "kiota",
-          "count": 5
+          "repo": "Azure/azure-sdk-for-js",
+          "name": "azure-sdk-for-js",
+          "count": 2
         },
         {
           "repo": "microsoft/debugpy",
@@ -32,11 +37,6 @@
           "count": 2
         },
         {
-          "repo": "Azure/azure-sdk-for-js",
-          "name": "azure-sdk-for-js",
-          "count": 1
-        },
-        {
           "repo": "microsoft/mssql-python",
           "name": "mssql-python",
           "count": 1
@@ -50,17 +50,17 @@
     },
     {
       "company": "Meta",
-      "total": 12,
+      "total": 15,
       "repos": [
         {
           "repo": "facebook/lexical",
           "name": "lexical",
-          "count": 10
+          "count": 11
         },
         {
           "repo": "facebook/stylex",
           "name": "stylex",
-          "count": 2
+          "count": 4
         }
       ]
     },
@@ -104,6 +104,17 @@
           "repo": "apple/coremltools",
           "name": "coremltools",
           "count": 2
+        }
+      ]
+    },
+    {
+      "company": "Google",
+      "total": 1,
+      "repos": [
+        {
+          "repo": "firebase/apphosting-adapters",
+          "name": "apphosting-adapters",
+          "count": 1
         }
       ]
     },
