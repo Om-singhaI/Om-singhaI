@@ -50,12 +50,12 @@
     },
     {
       "company": "Meta",
-      "total": 15,
+      "total": 16,
       "repos": [
         {
           "repo": "facebook/lexical",
           "name": "lexical",
-          "count": 11
+          "count": 12
         },
         {
           "repo": "facebook/stylex",
@@ -108,6 +108,22 @@
       ]
     },
     {
+      "company": "OpenAI",
+      "total": 2,
+      "repos": [
+        {
+          "repo": "openai/openai-agents-python",
+          "name": "openai-agents-python",
+          "count": 1
+        },
+        {
+          "repo": "openai/tart",
+          "name": "tart",
+          "count": 1
+        }
+      ]
+    },
+    {
       "company": "Google",
       "total": 1,
       "repos": [
@@ -119,12 +135,12 @@
       ]
     },
     {
-      "company": "OpenAI",
+      "company": "Hugging Face",
       "total": 1,
       "repos": [
         {
-          "repo": "openai/tart",
-          "name": "tart",
+          "repo": "huggingface/accelerate",
+          "name": "accelerate",
           "count": 1
         }
       ]
