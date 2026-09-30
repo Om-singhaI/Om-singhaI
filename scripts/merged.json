@@ -4,12 +4,12 @@
   "companies": [
     {
       "company": "Microsoft",
-      "total": 22,
+      "total": 23,
       "repos": [
         {
           "repo": "microsoft/kiota",
           "name": "kiota",
-          "count": 6
+          "count": 7
         },
         {
           "repo": "microsoft/onnxscript",
@@ -66,8 +66,13 @@
     },
     {
       "company": "AWS",
-      "total": 3,
+      "total": 4,
       "repos": [
+        {
+          "repo": "aws/sagemaker-python-sdk",
+          "name": "sagemaker-python-sdk",
+          "count": 2
+        },
         {
           "repo": "awslabs/mcp",
           "name": "mcp",
@@ -76,11 +81,6 @@
         {
           "repo": "aws/mcp-proxy-for-aws",
           "name": "mcp-proxy-for-aws",
-          "count": 1
-        },
-        {
-          "repo": "aws/sagemaker-python-sdk",
-          "name": "sagemaker-python-sdk",
           "count": 1
         }
       ]
