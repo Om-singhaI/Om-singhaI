@@ -4,7 +4,7 @@
   "companies": [
     {
       "company": "Microsoft",
-      "total": 23,
+      "total": 27,
       "repos": [
         {
           "repo": "microsoft/kiota",
@@ -14,16 +14,21 @@
         {
           "repo": "microsoft/onnxscript",
           "name": "onnxscript",
-          "count": 6
-        },
-        {
-          "repo": "Azure/azure-sdk-for-js",
-          "name": "azure-sdk-for-js",
-          "count": 2
+          "count": 7
         },
         {
           "repo": "microsoft/debugpy",
           "name": "debugpy",
+          "count": 3
+        },
+        {
+          "repo": "microsoft/typespec",
+          "name": "typespec",
+          "count": 3
+        },
+        {
+          "repo": "Azure/azure-sdk-for-js",
+          "name": "azure-sdk-for-js",
           "count": 2
         },
         {
@@ -32,18 +37,13 @@
           "count": 2
         },
         {
-          "repo": "microsoft/typespec",
-          "name": "typespec",
+          "repo": "microsoft/vscode-cmake-tools",
+          "name": "vscode-cmake-tools",
           "count": 2
         },
         {
           "repo": "microsoft/mssql-python",
           "name": "mssql-python",
-          "count": 1
-        },
-        {
-          "repo": "microsoft/vscode-cmake-tools",
-          "name": "vscode-cmake-tools",
           "count": 1
         }
       ]
@@ -108,6 +108,22 @@
       ]
     },
     {
+      "company": "Google",
+      "total": 2,
+      "repos": [
+        {
+          "repo": "firebase/apphosting-adapters",
+          "name": "apphosting-adapters",
+          "count": 1
+        },
+        {
+          "repo": "firebase/firebase-tools",
+          "name": "firebase-tools",
+          "count": 1
+        }
+      ]
+    },
+    {
       "company": "OpenAI",
       "total": 2,
       "repos": [
@@ -119,17 +135,6 @@
         {
           "repo": "openai/tart",
           "name": "tart",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "company": "Google",
-      "total": 1,
-      "repos": [
-        {
-          "repo": "firebase/apphosting-adapters",
-          "name": "apphosting-adapters",
           "count": 1
         }
       ]
