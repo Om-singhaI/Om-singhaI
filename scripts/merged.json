@@ -4,7 +4,7 @@
   "companies": [
     {
       "company": "Microsoft",
-      "total": 27,
+      "total": 28,
       "repos": [
         {
           "repo": "microsoft/kiota",
@@ -19,7 +19,7 @@
         {
           "repo": "microsoft/debugpy",
           "name": "debugpy",
-          "count": 3
+          "count": 4
         },
         {
           "repo": "microsoft/typespec",
