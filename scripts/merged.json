@@ -86,6 +86,22 @@
       ]
     },
     {
+      "company": "Apple",
+      "total": 3,
+      "repos": [
+        {
+          "repo": "apple/coremltools",
+          "name": "coremltools",
+          "count": 2
+        },
+        {
+          "repo": "apple/swift-log",
+          "name": "swift-log",
+          "count": 1
+        }
+      ]
+    },
+    {
       "company": "Cloudflare",
       "total": 3,
       "repos": [
@@ -93,17 +109,6 @@
           "repo": "cloudflare/workers-sdk",
           "name": "workers-sdk",
           "count": 3
-        }
-      ]
-    },
-    {
-      "company": "Apple",
-      "total": 2,
-      "repos": [
-        {
-          "repo": "apple/coremltools",
-          "name": "coremltools",
-          "count": 2
         }
       ]
     },
