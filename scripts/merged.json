@@ -49,22 +49,6 @@
       ]
     },
     {
-      "company": "Meta",
-      "total": 16,
-      "repos": [
-        {
-          "repo": "facebook/lexical",
-          "name": "lexical",
-          "count": 12
-        },
-        {
-          "repo": "facebook/stylex",
-          "name": "stylex",
-          "count": 4
-        }
-      ]
-    },
-    {
       "company": "AWS",
       "total": 4,
       "repos": [
