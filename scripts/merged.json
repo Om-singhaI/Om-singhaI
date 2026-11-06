@@ -4,7 +4,7 @@
   "companies": [
     {
       "company": "Microsoft",
-      "total": 28,
+      "total": 29,
       "repos": [
         {
           "repo": "microsoft/kiota",
@@ -44,6 +44,11 @@
         {
           "repo": "microsoft/mssql-python",
           "name": "mssql-python",
+          "count": 1
+        },
+        {
+          "repo": "microsoft/vscode-js-debug",
+          "name": "vscode-js-debug",
           "count": 1
         }
       ]
