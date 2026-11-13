@@ -4,7 +4,7 @@
   "companies": [
     {
       "company": "Microsoft",
-      "total": 29,
+      "total": 30,
       "repos": [
         {
           "repo": "microsoft/kiota",
@@ -49,6 +49,11 @@
         {
           "repo": "microsoft/vscode-js-debug",
           "name": "vscode-js-debug",
+          "count": 1
+        },
+        {
+          "repo": "microsoft/vscode-python-environments",
+          "name": "vscode-python-environments",
           "count": 1
         }
       ]
