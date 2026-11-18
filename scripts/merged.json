@@ -4,16 +4,11 @@
   "companies": [
     {
       "company": "Microsoft",
-      "total": 30,
+      "total": 23,
       "repos": [
         {
           "repo": "microsoft/kiota",
           "name": "kiota",
-          "count": 7
-        },
-        {
-          "repo": "microsoft/onnxscript",
-          "name": "onnxscript",
           "count": 7
         },
         {
