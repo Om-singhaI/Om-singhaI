@@ -4,7 +4,7 @@
   "companies": [
     {
       "company": "Microsoft",
-      "total": 23,
+      "total": 24,
       "repos": [
         {
           "repo": "microsoft/kiota",
@@ -27,6 +27,11 @@
           "count": 2
         },
         {
+          "repo": "microsoft/mssql-python",
+          "name": "mssql-python",
+          "count": 2
+        },
+        {
           "repo": "microsoft/playwright",
           "name": "playwright",
           "count": 2
@@ -35,11 +40,6 @@
           "repo": "microsoft/vscode-cmake-tools",
           "name": "vscode-cmake-tools",
           "count": 2
-        },
-        {
-          "repo": "microsoft/mssql-python",
-          "name": "mssql-python",
-          "count": 1
         },
         {
           "repo": "microsoft/vscode-js-debug",
